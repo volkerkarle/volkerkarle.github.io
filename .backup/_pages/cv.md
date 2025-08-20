@@ -1,11 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
 nav_order: 2
-description: Curriculum vitae of Volker Karle
-cv_pdf: cv.pdf
+description: 
 toc:
   sidebar: left
 ---
