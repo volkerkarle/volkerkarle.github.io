@@ -24,4 +24,5 @@ Our analysis combines **stochastic simulations**, **bifurcation theory**, and **
 One key result is the emergence of **hysteresis loops** in the coupled system: once a cascade has been triggered, reversing external forcing does not necessarily restore the system to its original state. This implies a profound loss of resilience in ecological and climate networks under anthropogenic stressors.  
 
 These findings provide a theoretical framework for understanding **compound climate risks** and **ecological regime shifts**, emphasizing that early-warning signals in one subsystem can be precursors to far-reaching cascades. The work highlights the urgent need for integrated approaches that consider not just individual tipping points, but their interactions across Earth’s complex systems.
+{% include figure.liquid path="assets/img/1DcuspManifold.png" alt="cusp catastrophe manifold illustrating tipping response" class="img-fluid rounded z-depth-1 mx-auto d-block" sizes="30vw" max-width="30%" title="Cusp manifold for interacting tipping elements" %}
 <div class="d-none">{% cite klose2020emergence %}</div>

@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 display_categories: [work, fun]
 horizontal: false
+_styles: |
+  /* Slightly smaller fonts on project cards */
+  .projects .card .card-title { font-size: 1rem; line-height: 1.25; }
+  .projects .card .card-text { font-size: 0.92rem; }
 ---
 
 <!-- pages/projects.md -->
